@@ -1,2 +1,0 @@
-# Bruno Bertechini
-Tech Blog
