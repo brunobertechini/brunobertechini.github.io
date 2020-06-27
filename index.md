@@ -1,2 +1,2 @@
-# brunobertechini.github.io
-Bruno Bertechini's Blog
+# Bruno Bertechini
+Tech Blog
